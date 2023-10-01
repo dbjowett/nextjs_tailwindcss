@@ -1,4 +1,4 @@
-- # Next.js Template
+# Next.js Template
 
 This is a template for creating a Next.js project with Tailwind CSS and some additional packages to enhance your development experience. The template also suggests using pnpm as the package manager and provides instructions for configuring the ShadCn theme in your project. Follow the steps below to get started.
 
